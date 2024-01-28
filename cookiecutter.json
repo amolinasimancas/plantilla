@@ -1,0 +1,8 @@
+{
+    "project_title": "plantilla",
+    "project_slug": "plantilla",
+    "project_description": "Plantilla básica para Data Science",
+    "project_author_name": "Tu nombre",
+    "project_packages": ["All, Minimal"],
+    "python_version": "3.12"
+}

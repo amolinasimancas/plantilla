@@ -1,0 +1,13 @@
+name: plantilla
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=2.5.0
+  - seaborn=0.13
+  - ipykernel
+  - matplotlib=3.8
+  - numpy=1.26
+  - pandas=2.2
+  - python=3.12
+prefix: /home/peritectico/anaconda3/envs/plantilla
